@@ -1,0 +1,36 @@
+{
+  "name": "kbc-quiz",
+  "version": "1.1.0",
+  "description": "Kaun Banega Crorepati",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "kbc": "index.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "Tusshar-developer",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "chalk": "^5.0.0",
+    "chalk-animation": "^1.6.0",
+    "easytimer.js": "^4.5.1",
+    "figlet": "^1.5.2",
+    "gradient-string": "^2.0.0",
+    "html-entities": "^2.3.2",
+    "inquirer": "^8.2.0",
+    "nanospinner": "^1.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tusshar-developer/Kaun-Banega-Crorepati-cli-.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Tusshar-developer/Kaun-Banega-Crorepati-cli-/issues"
+  },
+  "homepage": "https://github.com/Tusshar-developer/Kaun-Banega-Crorepati-cli-#readme"
+}
